@@ -1,2 +1,2 @@
 # Actividad_vision_artificial
-Repositorio con notebooks para la actividad de visión aritifical 2021
+Repositorio con notebooks para la actividad de visión artificial 2021
